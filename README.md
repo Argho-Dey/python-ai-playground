@@ -26,3 +26,17 @@ Educational resources and code samples covering Python fundamentals, AI/ML algor
 ## ▶️ How to Run
 
 Clone the repository
+
+Open using **Jupyter Notebook or VS Code**
+
+---
+
+## 👨‍💻 Author
+
+Argho Dey  
+Computer Science & Engineering  
+American International University–Bangladesh (AIUB)
+
+---
+
+⭐ If you like this project, consider giving it a star.
